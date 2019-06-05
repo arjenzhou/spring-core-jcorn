@@ -1,0 +1,23 @@
+[
+  {
+    "name":"beforeMethod",
+    "className":"cn.jcorn.spring.aop.test.StartTimeBeforeMethod"
+  },
+  {
+    "name":"afterMethod",
+    "className":"cn.jcorn.spring.aop.test.EndTimeAfterMethod"
+  },
+  {
+    "name":"testService",
+    "className":"cn.jcorn.spring.aop.test.TestService"
+  },
+  {
+    "name":"testServiceProxy",
+    "className":"cn.jcorn.spring.aop.core.ProxyFactoryBean",
+    "target":"testService",
+    "interceptorNames":[
+      "beforeMethod",
+      "afterMethod"
+    ]
+  }
+]

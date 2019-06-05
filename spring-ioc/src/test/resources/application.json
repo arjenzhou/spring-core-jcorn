@@ -1,0 +1,21 @@
+[
+  {
+    "name": "robot",
+    "className": "cn.jcorn.spring.ioc.entity.Robot"
+  },
+  {
+    "name": "hand",
+    "className": "cn.jcorn.spring.ioc.entity.Hand"
+  },
+  {
+    "name": "mouth",
+    "className": "cn.jcorn.spring.ioc.entity.Mouth",
+    "constructorArgs": [
+      {
+        "index": 1,
+        "name": "name",
+        "value": "hello"
+      }
+    ]
+  }
+]
