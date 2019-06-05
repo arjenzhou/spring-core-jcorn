@@ -1,4 +1,4 @@
-package cn.jcorn.spring.aop.test;
+package cn.jcorn.spring.aop;
 
 public class TestService {
     public void testMethod() throws InterruptedException {

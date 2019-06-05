@@ -1,4 +1,4 @@
-package cn.jcorn.spring.aop.test;
+package cn.jcorn.spring.aop;
 
 import cn.jcorn.spring.aop.advisor.AfterRunningAdvice;
 

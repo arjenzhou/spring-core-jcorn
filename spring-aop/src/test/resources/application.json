@@ -1,15 +1,15 @@
 [
   {
     "name":"beforeMethod",
-    "className":"cn.jcorn.spring.aop.test.StartTimeBeforeMethod"
+    "className":"cn.jcorn.spring.aop.StartTimeBeforeMethod"
   },
   {
     "name":"afterMethod",
-    "className":"cn.jcorn.spring.aop.test.EndTimeAfterMethod"
+    "className":"cn.jcorn.spring.aop.EndTimeAfterMethod"
   },
   {
     "name":"testService",
-    "className":"cn.jcorn.spring.aop.test.TestService"
+    "className":"cn.jcorn.spring.aop.TestService"
   },
   {
     "name":"testServiceProxy",

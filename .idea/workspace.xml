@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4b108974-0876-4400-9cb6-461f9b1e10a3" name="Default Changelist" comment="" />
+    <list default="true" id="4b108974-0876-4400-9cb6-461f9b1e10a3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-aop/src/test/java/cn/jcorn/spring/aop/test/EndTimeAfterMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-aop/src/test/java/cn/jcorn/spring/aop/EndTimeAfterMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-aop/src/test/java/cn/jcorn/spring/aop/test/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-aop/src/test/java/cn/jcorn/spring/aop/MainTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-aop/src/test/java/cn/jcorn/spring/aop/test/StartTimeBeforeMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-aop/src/test/java/cn/jcorn/spring/aop/StartTimeBeforeMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-aop/src/test/java/cn/jcorn/spring/aop/test/TestService.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-aop/src/test/java/cn/jcorn/spring/aop/TestService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-aop/src/test/java/cn/jcorn/spring/aop/test/ThreadLocalUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-aop/src/test/java/cn/jcorn/spring/aop/ThreadLocalUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-aop/src/test/resources/application.json" beforeDir="false" afterPath="$PROJECT_DIR$/spring-aop/src/test/resources/application.json" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/src/test/java/cn/jcorn/spring/ioc/target/" />
@@ -35,15 +44,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-aop/src/test/java/cn/jcorn/spring/aop/test/TestService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spring-aop/src/main/java/cn/jcorn/spring/aop/adapter/AdviceAdapter.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -89,10 +89,28 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="60">
-                <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+              <first_editor relative-caret-position="140">
+                <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-aop/src/test/resources/application.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="320">
+              <caret line="16" column="27" lean-forward="true" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-aop/src/test/java/cn/jcorn/spring/aop/MainTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="320">
+              <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -114,18 +132,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="160">
               <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-aop/src/main/java/cn/jcorn/spring/aop/adapter/AfterRunningAdviceAdapter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -157,6 +163,9 @@
       <find>Bean</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -184,7 +193,6 @@
         <option value="$PROJECT_DIR$/spring-aop/src/test/java/cn/jcorn/spring/aop/EndTimeAfterMethod.java" />
         <option value="$PROJECT_DIR$/spring-aop/src/main/java/cn/jcorn/spring/aop/test/core/AopBeanFactoryImpl.java" />
         <option value="$PROJECT_DIR$/spring-aop/src/test/java/cn/jcorn/spring/aop/MainTest.java" />
-        <option value="$PROJECT_DIR$/spring-aop/src/test/resources/application.json" />
         <option value="$PROJECT_DIR$/spring-aop/src/test/java/cn/jcorn/spring/aop/test/TestService.java" />
         <option value="$PROJECT_DIR$/spring-aop/src/main/java/cn/jcorn/spring/aop/invocation/ReflectionMethodMethodInvocation.java" />
         <option value="$PROJECT_DIR$/spring-aop/src/main/java/cn/jcorn/spring/aop/core/AopApplicationContext.java" />
@@ -210,6 +218,7 @@
         <option value="$PROJECT_DIR$/spring-aop/src/main/java/cn/jcorn/spring/aop/core/AopBeanFactoryImpl.java" />
         <option value="$PROJECT_DIR$/spring-aop/README.md" />
         <option value="$PROJECT_DIR$/spring-ioc/README.md" />
+        <option value="$PROJECT_DIR$/spring-aop/src/test/resources/application.json" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -251,17 +260,62 @@
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="spring-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-aop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-aop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-aop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-aop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-aop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="aop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-aop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/spring-ioc/src/main/test/java/cn/jcorn/spring/ioc" />
@@ -315,6 +369,19 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.MainTest (1)">
+    <configuration name="MainTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.jcorn.spring.aop.MainTest" />
+      <module name="aop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.jcorn.spring.aop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MainTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cn.jcorn.spring.aop.test.MainTest" />
       <module name="aop" />
@@ -360,6 +427,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.MainTest (1)" />
+        <item itemvalue="Application.MainTest (1)" />
         <item itemvalue="Application.MainTest" />
         <item itemvalue="JUnit.IOCTest.testIOC" />
       </list>
@@ -376,7 +444,7 @@
       <option name="presentableId" value="Default" />
       <updated>1559728351767</updated>
       <workItem from="1559728355097" duration="10430000" />
-      <workItem from="1559738842268" duration="12696000" />
+      <workItem from="1559738842268" duration="12960000" />
     </task>
     <servers />
   </component>
@@ -413,7 +481,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23126000" />
+    <option name="totallyTimeSpent" value="23390000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="27" width="1853" height="1053" extended-state="6" />
@@ -425,7 +493,7 @@
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2524377" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2519001" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.49945828" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -435,7 +503,7 @@
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="11" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32936078" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32899022" />
       <window_info anchor="right" x="0" y="0" width="413" height="853" id="Documentation" side_tool="true" weight="0.32963988" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -543,7 +611,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-aop/src/test/java/cn/jcorn/spring/aop/test/ThreadLocalUtils.java">
+    <entry file="file://$PROJECT_DIR$/spring-aop/src/test/java/cn/jcorn/spring/aop/ThreadLocalUtils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
           <caret line="20" selection-start-line="20" selection-end-line="20" />
@@ -554,7 +622,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-aop/src/test/java/cn/jcorn/spring/aop/test/StartTimeBeforeMethod.java">
+    <entry file="file://$PROJECT_DIR$/spring-aop/src/test/java/cn/jcorn/spring/aop/StartTimeBeforeMethod.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="15" selection-start-line="15" selection-end-line="15" />
@@ -564,7 +632,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-aop/src/test/java/cn/jcorn/spring/aop/test/EndTimeAfterMethod.java">
+    <entry file="file://$PROJECT_DIR$/spring-aop/src/test/java/cn/jcorn/spring/aop/EndTimeAfterMethod.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="17" selection-start-line="17" selection-end-line="17" />
@@ -708,13 +776,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-aop/src/test/resources/application.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="15" column="60" lean-forward="true" selection-start-line="15" selection-start-column="60" selection-end-line="15" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spring-aop/src/main/java/cn/jcorn/spring/aop/interceptor/BeforeMethodInterceptor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
@@ -780,14 +841,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-aop/src/test/java/cn/jcorn/spring/aop/test/MainTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-aop/src/test/java/cn/jcorn/spring/aop/test/TestService.java">
+    <entry file="file://$PROJECT_DIR$/spring-aop/src/test/java/cn/jcorn/spring/aop/TestService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
@@ -864,6 +918,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/spring-aop/src/test/resources/application.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" column="27" lean-forward="true" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-aop/src/test/java/cn/jcorn/spring/aop/MainTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/spring-aop/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -877,8 +945,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="60">
-            <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+          <first_editor relative-caret-position="140">
+            <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
           </first_editor>
           <second_editor />
         </state>

@@ -1,4 +1,4 @@
-package cn.jcorn.spring.aop.test;
+package cn.jcorn.spring.aop;
 
 public class ThreadLocalUtils {
     private static ThreadLocal<Long> threadLocal = new ThreadLocal<>();
